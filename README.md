@@ -1,7 +1,6 @@
 # odin-recipes
 
 ## Introduction
----
 This project is part of the Odin Project HTML course and is a pure HTML recipe page. 
 Focus of the learnings in the project: 
 - Fundamental Knowledge around Web Development
