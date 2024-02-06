@@ -8,3 +8,9 @@ Focus of the learnings in the project:
 - Setup of a Development Environment in Mac and Linux
 - Basic visual studio code configuration 
 - HTML Fundamentals (HTML Boilerplate, Tags, Links, Images, Hierarchy, ...)
+
+## CSS Exercise
+As part of the CSS Fundamentals lesson this exercise was revisited to improve the layout. 
+Focus on the learning in the project: 
+- Try out different styling options
+- Use classes, ids, etc. across the page

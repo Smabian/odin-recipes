@@ -1,0 +1,18 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+}
+
+.mainHeading {
+    background-color: #694100;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.link {
+    margin-bottom: 10px;
+    font-size: large;
+}
+
